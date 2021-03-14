@@ -1,79 +1,38 @@
 # how_linux_works
 
-```
-BASIC COMMANDS AND DIRECTORY HIERARCHY
-├── Basic Commands
-│   ├── ls
-│   ├── cp
-│   ├── mv
-│   ├── touch
-│   ├── rm
-│   ├── echo
-├── Navigating Directories
-│   ├── cd
-│   ├── mkdir
-│   ├── rmdir
-│   ├── * (wildcard)
-│   │   ├── at* expands to all filenames that start with at.
-│   │   ├── *at expands to all filenames that end with at.
-│   │   ├── *at* expands to all filenames that contain at.
-├── Intermediate Commands
-│   ├── grep
-│   ├── less
-│   ├── pwd
-│   ├── diff
-│   ├── file
-│   ├── find and locate
-│   ├── head and tail
-│   ├── sort
-├── Changing Your Password and Shell
-│   ├── passwd
-├── Dot Files
-│   ├── ls -a
-├── Environment and Shell Variables
-│   ├── STUFF=blah (Don’t put any spaces around the = when assigning a variable)
-├── The Command Path
-│   ├── WhatsApp Video 2020-09-10 at 8.00.12 PM.mp4
-│   ├── WhatsApp Video 2020-09-10 at 8.00.13 PM (1).mp4
-│   ├── WhatsApp Video 2020-09-10 at 8.00.13 PM.mp4
-│   ├── WhatsApp Video 2020-09-10 at 8.00.14 PM (1).mp4
-│   ├── WhatsApp Video 2020-09-10 at 8.00.14 PM.mp4
-│   ├── WhatsApp Video 2020-09-10 at 8.00.15 PM (1).mp4
-│   ├── WhatsApp Video 2020-09-10 at 8.00.15 PM.mp4
-│   ├── WhatsApp Video 2020-09-10 at 8.00.17 PM.mp4
-│   ├── WhatsApp Video 2020-09-10 at 8.00.46 PM.mp4
-│   ├── WhatsApp Video 2020-09-10 at 8.00.47 PM.mp4
-│   └── WhatsApp Video 2020-09-10 at 8.00.48 PM.mp4
-├── include
-│   └── common_gerobot_application
-├── launch
-│   ├── accelerometer_control.launch
-│   ├── bringup.launch
-│   ├── camera_control.launch
-│   ├── camera_converter.launch
-│   ├── dc_motor_control.launch
-│   ├── encoder_control.launch
-│   └── hokuyo_control.launch
-├── msg
-│   └── objCenter.msg
-├── package.xml
-├── README.md
-├── script
-│   ├── camera_apriltag_center.py
-│   ├── camera_apriltag.py
-│   ├── camera_apriltag_tracking_izwan.py
-│   ├── camera_apriltag_tracking.py
-│   ├── camera_converter.py
-│   ├── camera_preview.py
-│   ├── laser_obstacle.py
-│   ├── laser_preview.py
-│   └── teleop_key.py
-├── setup.py
-└── src
-    └── common_gerobot_application
-        ├── __init__.py
-        ├── makesimpleprofile.py
-        ├── makesimpleprofile.pyc
-        ├── pid.py
-        └── pid.pyc
-```
+1. BASIC COMMANDS AND DIRECTORY HIERARCHY
+    1. Basic Commands
+        1. ls
+        1. cp
+        1. mv
+        1. touch
+        1. rm
+        1. echo
+    1. Navigating Directories
+        1. cd
+        1. mkdir
+        1. rmdir
+        1. \*(wildcard)
+            1. at* expands to all filenames that start with at.
+            1. *at expands to all filenames that end with at.
+            1. \*at\* expands to all filenames that contain at.
+    1. Intermediate Commands
+        1. grep
+        1. less
+        1. pwd
+        1. diff
+        1. file
+        1. find and locate
+        1. head and tail
+        1. sort
+    1. Changing Your Password and Shell
+        1. passwd
+    1. Dot Files
+        1. ls -a
+    1. Environment and Shell Variables
+        1. STUFF=blah (Don’t put any spaces around the = when assigning a variable)
+    1. The Command Path
+        1. WhatsApp Video 2020-09-10 at 8.00.12 PM.mp4
+    1. Special Characters
+        ![Image of Special Characters](https://github.com/KhairulIzwan/how_linux_works/blob/main/img/specialChars.png)
+        ![Image of Special Characters](https://github.com/KhairulIzwan/how_linux_works/blob/main/img/specialChars_.png)
