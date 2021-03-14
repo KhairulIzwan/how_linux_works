@@ -36,3 +36,8 @@
     1. Special Characters
         ![Image of Special Characters](https://github.com/KhairulIzwan/how_linux_works/blob/main/img/specialChars.png)
         ![Image of Special Characters](https://github.com/KhairulIzwan/how_linux_works/blob/main/img/specialChars_.png)
+    1. Command-Line Editing
+        ![Image of Command Line Editing](https://github.com/KhairulIzwan/how_linux_works/blob/main/img/cmdLine.png)
+    1. Text Editors
+        1. vi
+        2. emacs
