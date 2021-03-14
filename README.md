@@ -38,6 +38,15 @@
         ![Image of Special Characters](https://github.com/KhairulIzwan/how_linux_works/blob/main/img/specialChars_.png)
     1. Command-Line Editing
         ![Image of Command Line Editing](https://github.com/KhairulIzwan/how_linux_works/blob/main/img/cmdLine.png)
+        <!-- ![Image of Command Line Editing](https://github.com/KhairulIzwan/how_linux_works/blob/main/img/cmdLine_.png) -->
     1. Text Editors
         1. vi
-        2. emacs
+        1. emacs
+    1. Shell Input and Output
+        1. send the output of command to a file instead of the terminal
+            1. command > file
+        1. append the output to the file instead of overwriting it
+            1. command >> file
+        1. send the standard output of a command to the standard input of another command
+            1. head /proc/cpuinfo | tr a-z A-Z
+    1. Standard Error
